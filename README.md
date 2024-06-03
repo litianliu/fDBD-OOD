@@ -13,7 +13,7 @@ $ conda activate fdbd
 # set environmental variables
 $ export DATASETS='data'
 # download datasets and checkpoints
-$ bash scripts/download.sh
+$ bash download.sh
 ```
 Please download ImageNet dataset manually to your own `$IMAGENET` dir by following [this](https://gist.github.com/bonlime/4e0d236cf98cd5b15d977dfa03a63643) instructions.
 
