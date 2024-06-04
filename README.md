@@ -4,6 +4,10 @@ This repository contains code for the paper [Fast Decision Boundary based Out-of
 
 Besides this codebase, we also demo the implementation and performance of our algorithm fDBD on [OpenOOD Benchmark](https://github.com/Jingkang50/OpenOOD/tree/main). See [Colab Version](https://colab.research.google.com/drive/1ebGFVrLZJ2HpO5R-VTkhG2akK3oqsOxK?usp=sharing) here.  
 
+<div style="text-align:center;">
+    <img src="img/intro_pic.pdf" alt="intro" width="50%" height="50%">
+</div>
+
 ## Setup
 
 ```bash
